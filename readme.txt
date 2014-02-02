@@ -1,0 +1,1 @@
+http://stanislavbojko.ru/skript-dlya-raboty-s-platezhnoj-sistemoj-payeer/

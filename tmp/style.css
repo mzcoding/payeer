@@ -1,0 +1,8 @@
+*{	margin:0;
+	padding:0;}
+body{	font: Verdana, Arial, sans-serif;
+	fonct-size: 14px;
+	line-height: 150%;
+	color:#000;}
+div.content{	width: 800px;
+	padding: 10px;}
